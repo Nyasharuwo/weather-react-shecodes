@@ -67,7 +67,7 @@ export default function Weather() {
         This project was coded by
         <a href="https://github.com/Nyasharuwo" target="_blank"> Nyasha Ruwo</a>,
         is
-        <a href="https://github.com/Nyasharuwo/weather-forecast-final" target="_blank">
+        <a https://github.com/Nyasharuwo/weather-react-shecodes.git"_blank">
           open-sourced on GitHub
         </a>
         and
