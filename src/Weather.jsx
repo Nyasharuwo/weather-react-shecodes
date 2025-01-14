@@ -64,17 +64,18 @@ export default function Weather() {
         </div>
       </div>
       <footer>
-        This project was coded by
-        <a href="https://github.com/Nyasharuwo" target="_blank"> Nyasha Ruwo</a>,
-        is
-        <a https://github.com/Nyasharuwo/weather-react-shecodes.git"_blank">
-          open-sourced on GitHub
-        </a>
-        and
-        <a href="https://nalediruwo.netlify.app/" target="_blank">
-          hosted on Netlify
-        </a>
-      </footer>
+  This project was coded by
+  <a href="https://github.com/Nyasharuwo" target="_blank">Nyasha Ruwo</a>,
+  is
+  <a href="https://github.com/Nyasharuwo/weather-react-shecodes.git" target="_blank">
+    open-sourced on GitHub
+  </a>
+  and
+  <a href="https://nalediruwo.netlify.app/" target="_blank">
+    hosted on Netlify
+  </a>
+</footer>
+
     </div>
   );
 }
