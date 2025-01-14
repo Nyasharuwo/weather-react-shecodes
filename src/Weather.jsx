@@ -71,7 +71,7 @@ export default function Weather() {
     open-sourced on GitHub
   </a>
   and
-  <a href="https://nalediruwo.netlify.app/" target="_blank">
+  <a href="https://react-shecodesweather.netlify.app/" target="_blank">
     hosted on Netlify
   </a>
 </footer>
